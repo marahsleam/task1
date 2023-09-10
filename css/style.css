@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}:root{
+    --packground-color:rgba(42, 24, 3, 0.411);
+}
+
+
+/* start header */
+ header {
+    justify-content: space-between;
+    margin: 5% 5%;
+    display: flex;
+ }
+ /* end header */
+ /* start section */
+ section{
+    text-align: center;
+ }
+ /* end section */
